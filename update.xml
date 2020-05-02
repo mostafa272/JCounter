@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>JCounter</name>
+		<description>with this module you can show count of articles that you like based on date.</description>
+		<element>JCounter</element>
+		<type>module</type>
+		<version>1.0</version>
+		<infourl title="JCounter">https://www.codester.com/items/15239/k2-online-users-joomla-module</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/JCounter/files/4567206/mod_jcounter.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[2345678]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
